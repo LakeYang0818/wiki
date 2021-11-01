@@ -32,6 +32,13 @@ extra:
           attendees: TBC
           digital: true
           
+        - name: Winter Hackathon (HSBC X MUDSS)
+          website: https://www.mudss.co.uk/
+          location: Manchester (Physical)
+          when: 11st December 2021
+          attendees: 25-40
+          digital: true
+          
     - name: Summer 2020
       past: true
       hackathons:
